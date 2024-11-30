@@ -40,11 +40,3 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-
-"""
-Homework:
-1. Edit the script to give the user the option to enter uneven splits, such as 20%, 40%, 40%.
-2. Make it so that if the user encounters as error, the program nicely asks them to try again with a proper value.
-
-I am learning xxx and I want you to answer every single doubt that I have in a concise manner and ask me a question so as to check if I have understood it or not.
-"""
